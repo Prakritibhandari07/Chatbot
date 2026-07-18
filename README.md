@@ -4,7 +4,7 @@ A simple chatbot that classifies user messages into intents (greeting, goodbye, 
 
 ## 🚀 Live Demo
 
-🔗 Try the App Here: [Add your Streamlit Community Cloud link here]
+
 
 ## Project Structure
 
