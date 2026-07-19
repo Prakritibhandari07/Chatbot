@@ -5,7 +5,6 @@ A simple chatbot that classifies user messages into intents (greeting, goodbye, 
 ## 🚀 Live Demo
 
 
-
 ## Project Structure
 
 ```
