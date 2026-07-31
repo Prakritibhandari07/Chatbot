@@ -2,9 +2,6 @@
 
 A simple chatbot that classifies user messages into intents (greeting, goodbye, name, age, etc.) using a small neural network, with a Streamlit chat interface.
 
-## 🚀 Live Demo
-
-
 ## Project Structure
 
 ```
